@@ -91,19 +91,4 @@ Tutorials and resources: If you found inspiration or referenced any tutorials, b
 Badges (Optional)
 You can use badges to show the status of your project, such as build status, license, or number of contributors. Add these to the top of your README to make it stand out:
 
-Example badges:
 
-Build Status (using Travis CI, GitHub Actions, etc.)
-License type (e.g., MIT)
-Version of the project
-For badges, check out Shields.io.
-
-Extras
-Tests
-To ensure the functionality of CloudUploader-CLI, you can add tests for different upload scenarios, error handling, and integration with cloud APIs. Below is an example of how to write and run tests for the project:
-
-bash
-Code kopieren
-python -m unittest discover
-Keep It Up-to-Date
-It’s essential to keep this README file up-to-date as your project evolves. Whenever you add new features or change the setup instructions, make sure the README reflects those updates.
