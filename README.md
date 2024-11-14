@@ -9,18 +9,17 @@ Why Build This Project?
 In many automation setups, uploading files to cloud storage is a recurring task. By building CloudUploader-CLI, I could simplify this process, focusing on clean, easy-to-use functionality for developers and sysadmins. Instead of navigating complex UIs or dealing with cumbersome scripts, this tool provides a straightforward way to upload files to cloud storage from the command line.
 
 Features
-Upload files to AWS S3, Google Cloud Storage, or Azure Blob Storage.
+Upload files to AWS S3.
 Simple and easy-to-use command-line interface.
 Fast and efficient file uploads without unnecessary complexity.
 Error handling with clear status updates.
 Lightweight and great for automation, DevOps workflows, or cloud management tasks.
-Table of Contents
-Installation
-Configuration
-Usage
-How to Contribute
-License
-Credits
+- Table of Contents
+- Installation
+- Configuration
+- Usage
+- License
+- Credits
 How to Install and Run the Project
 To get started with CloudUploader-CLI, follow these simple steps:
 
