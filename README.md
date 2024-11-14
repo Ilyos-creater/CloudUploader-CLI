@@ -84,27 +84,6 @@ Command-Line Options
 --cloud: Specifies the cloud provider (aws, gcs, or azure).
 --bucket or --container: The name of your cloud storage bucket or container.
 --file: The path of the file you want to upload.
-How to Contribute
-I welcome contributions to CloudUploader-CLI! If you want to improve this project or add new features, here’s how you can get started:
-
-Fork the repository.
-Create a new branch:
-bash
-Code kopieren
-git checkout -b feature/my-feature
-Make your changes and commit them:
-bash
-Code kopieren
-git commit -am 'Added a new feature'
-Push your changes to your fork:
-bash
-Code kopieren
-git push origin feature/my-feature
-Submit a pull request!
-If you want to contribute, but are unsure how to start, feel free to reach out and ask questions.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details on how you can use and distribute this code.
 
 Credits
 Your Name: Creator and maintainer of this project.
