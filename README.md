@@ -26,7 +26,7 @@ To get started with CloudUploader-CLI, follow these simple steps:
 Clone the repository:
 bash
 Code kopieren
-git clone https://github.com/yourusername/CloudUploader-CLI.git
+git clone https://github.com/ilyos-creater/CloudUploader-CLI.git
 Navigate to the project directory:
 bash
 Code kopieren
