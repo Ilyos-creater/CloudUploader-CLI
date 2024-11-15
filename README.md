@@ -14,7 +14,7 @@ Simple and easy-to-use command-line interface.
 Fast and efficient file uploads without unnecessary complexity.
 Error handling with clear status updates.
 Lightweight and great for automation, DevOps workflows, or cloud management tasks.
-- Table of Contents
+Table of Contents
 - Installation
 - Configuration
 - Usage
@@ -47,6 +47,8 @@ Code kopieren
 aws configure
 
 Now just run the code and you can utilize this CloudUploader. 
+
+Feel free to use this in any context you want to. :)
 
 
 Credits
